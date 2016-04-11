@@ -38,7 +38,17 @@ I've learnt to adapt and tailor my communication style to suit different situati
 
 - I'm curious and inquisitive and I've always wanted to understand how things work. I've learnt new skills and knowledge in every professional role i've had. I've appreciated the opportunities to understand different points of view, particularly where they challenge my own and make me think harder about the assumptions I make.
 
-- I'm passionate about education and believe everyone should have the opportunity to access education. I've been proud to work for the Open University and support the work they do on opening up access to higher education. I'm currently volunteering as a coach at Codebar to help support people who are learning to code and become more involved in the coding community.
+- I'm passionate about education and believe everyone should have the opportunity to access education. I've been proud to work for the Open University and support the work they do on opening up access to higher education. I'm currently volunteering as a coach at Codebar to help support people who are learning to code and become more involved in the coding community
+
+## Key Projects
+
+
+| Project        | Summary          | Key technologies |
+| ------------- |:-------------:| -----:|
+| [Hammock](https://github.com/esbaddeley/hammockapp)      | An online study planner to help students manage their MOOC enrollments | Ruby on Rails backend RESTful API serving JSON and Angular front end. Tested with Rspec, Karma and Protractor |
+| [Octosearch](https://github.com/esbaddeley/octo-search)      | an Angular app consuming the Github API and serving a clean interface for searching for Github users       |   Angular JS, tested with Karma and protractor |
+| [Nodeboard](https://github.com/esbaddeley/nodeboard) | RESTful API for a basic to-do app | MEAN stack - Node JS, Express JS and MongoDB, tested with Mocha and Chai |
+
 
 ## Education
 
