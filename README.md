@@ -27,7 +27,7 @@ I've learnt to adapt and tailor my communication style to suit different situati
 
 - Working as part of a team - At Makers Academy we pair programmed every day to write code, and I learnt that coding effectively meant communicating clearly and often, and listening to understand how different people preferred to work. We also built projects as part of a team which required similar techniques, but also the ability to recognise conflict and de-escalate situations through empathetic communications.
 
-- Building strong relationships in professional roles - Most of my previous roles have required my to develop positive relationships with colleagues, clients and senior executives. By adapting my communication style to suit the situation i've built strong relationships that have helped me get work done more efficiently.
+- Communicating in professional roles - Most of my previous roles have required me to develop positive relationships with colleagues, clients and senior executives. By adapting my communication style to suit the situation i've built strong relationships that have helped me get work done more efficiently.
 
 - Writing - A key part of my last role involved research and drafting short briefings for my manager and other senior executives. I developed my ability to convey the key points of an issue in clear and concise writing.
 
@@ -46,7 +46,7 @@ I've learnt to adapt and tailor my communication style to suit different situati
 | Project        | Summary          | Key technologies |
 | ------------- |:-------------:| -----:|
 | [Hammock](https://github.com/esbaddeley/hammockapp)      | An online study planner to help students manage their MOOC enrollments | Ruby on Rails backend RESTful API serving JSON and Angular front end. Tested with Rspec, Karma and Protractor |
-| [Octosearch](https://github.com/esbaddeley/octo-search)      | an Angular app consuming the Github API and serving a clean interface for searching for Github users       |   Angular JS, tested with Karma and protractor |
+| [Octosearch](https://github.com/esbaddeley/octo-search)      | An Angular single page app consuming the Github API and serving a clean interface for searching for Github users       |   Angular JS, tested with Karma and protractor |
 | [Nodeboard](https://github.com/esbaddeley/nodeboard) | RESTful API for a basic to-do app | MEAN stack - Node JS, Express JS and MongoDB, tested with Mocha and Chai |
 
 
