@@ -1,48 +1,102 @@
-## Your Name
+# Emma Baddeley
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+esbaddeley@gmail.com| [Github](https://github.com/esbaddeley) | [LinkedIn](https://uk.linkedin.com/pub/emma-baddeley/22/26a/139)
+## Who am I?
+
+Dedicated and driven, I'm passionate about exploring new ideas, developing well crafted code, and using technology to build products that make a difference.
+
+I was drawn to coding after working at The Open University and seeing the how education technology was opening up access to higher education. I enrolled at Makers Academy to learn the fundamentals of software craftsmanship, and develop the skills to write quality code and build well-designed applications.
+
+I'm looking for
+
 
 ## Skills
 
-#### This Skill
+#### Software Development and Craftmanship
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- x
+- y
+- z
+- a
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+####  Proactive Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- In code - breaking down a problem and hypothesising about possible causes, systematically investigating to eliminate options and identify issues.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- In work - dealing with difficult situations, breakdown problems and identifying key issues and possible solutions. Managing expectations, escalting issues whilst presenting possible solutions.
+
+- High pressure situations - dealing with clients.
+
+- a
+
+
+
+#### Confident Communicator
+
+Adapting communication style to suit the situation and the audience
+
+- Working as part of a team  - open and honest communication. Makers, working in pairs and project teams, open and empathetic communication.
+
+- Building strong relationships - key point of contact with clients, managing expectations and sensitive negotiations, influencing and persuading.
+
+- Written - drafting clear, concise reports and briefings for busy executives
+
+#### Lifelong Learner
+
+- Curious, understanding how things works and why they do.
+- Passionate about education - mentoring and supporting
+-
+-
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy | *January 2016 - April 2016*
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Passion for crafting clean, well designed code
+- Independent study and proactive problem-solving
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Object­ oriented programming
+- Agile methodologies, Test Driven Development, Behaviour Driven Development
+- Pair programming
+- Version control with Git and Github
+- RESTful API's
+- Key Technologies - Ruby, Ruby on Rails, Javascript, Node.js, Angular.js
+- Testing Frameworks - Rspec, Jasmine, Mocha, Chai, Protractor, Capybara
 
-#### Your University / College (start_date to end_date)
+#### University of Oxford, Mansfield College | *2007 - 2010*
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+- BA Hons Politics, Philosophy and Economics, Upper Second-Class Honours (2.1)
+- Women's Welfare Officer, Mansfield College JCR
+- Womens 1st VIII Rowing
+- Treasurer, Mansfield College Boat Club
+- Volunteer, Mansfield College Access Open Days
+
+#### PRINCE2 Practitioner |  *January 2014*
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+##### Makers Academy | *April 2016 to May 2016* | <br>
+Alumni Helper
+
+##### The Open University | *May 2013 - April 2016* <br>
+Chief of Staff to the Commercial Director - *July 2015 to April 2016* <br>
+Programme Manager - *January 2014 to July 2015* <br>
+Research Assistant - *May 2013 to January 2014*
+
+##### SJ Berwin (now King & Wood Mallesons) | *January 2012 to May 2013* <br>
+Business Development Assistant
+
+##### Landmark Lofts | *July 2011 to January 2012* <br>
+Projects Co-ordinator
+
+##### Origin Housing Association | *March 2011 to July 2011* <br>
+Service Improvement Assistant
+
+##### Populus | *February 2011 - March 2011* <br>
+Intern
+
+##### Waterstones | *August 2010 - February 2011* <br>      
+Bookseller
